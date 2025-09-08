@@ -1,0 +1,114 @@
+*{margin: 0 auto;}
+body{
+    background-color: rgb(186, 207, 199);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    border-style: outset;
+    border-color:black;
+    border: 10px inset;
+}
+.central{
+    text-align: center;
+
+}
+li{
+    background-color: white ;border-style: outset;margin: 10px;
+    
+    
+}
+.item-menu{
+    display: inline;
+    margin: 0.6rem;
+    background-color: white;
+    padding: 0.2rem;
+    
+}
+.item-menu:hover{
+    background-color: rgb(134, 124, 139);
+ 
+}
+td{
+    padding: 0.4rem;
+}
+.tabela-div{
+margin-left: 60px;
+padding-left: 40px;
+}
+#Pessoal{
+    margin-left: 50px;
+}
+#habilidades{
+  margin-right: 100px;
+}
+#Sobre{
+    padding-bottom: 10px;
+}
+#Lorem1{
+    margin-left: 40px;
+}
+#Lorem2{
+    margin-left: 40px;
+}
+#qualificação{
+    padding-bottom: 10px;
+}
+#Foto{
+    width: 300px; 
+    border-radius: 60px;
+}
+#experiencia{
+    margin-right: 100px;
+}
+#formacao{
+    margin-right: 100px;
+}
+#Estilo2{
+    background-color: white;
+    border-style:outset; 
+    margin-right: 1450px;
+    border-radius: 25px;
+    padding-left: 20px;
+}
+#Estilo1{
+    background-color: white;
+    border-style:outset; 
+    margin-right: 1450px;
+    border-radius: 30px;
+    padding-left: 100px;
+    
+}
+#Estilo3{
+    background-color: white;
+    border-style:outset; 
+    margin-right: 1350px;
+    border-radius: 25px;
+    padding-left: 20px;
+}
+#Estilo4{
+    background-color: white;
+    border-style:outset; 
+    margin-right: 1350px;
+    border-radius: 25px;
+    padding-left: 20px;
+}
+#Estilo5{
+    background-color: white;
+    border-style:outset; 
+    margin-right: 1350px;
+    border-radius: 25px;
+    padding-left: 100px;
+}
+#Estilo6{
+    background-color: white;
+    border-style:outset; 
+    margin-right: 1450px;
+    border-radius: 25px;
+    padding-left: 100px;
+}
+#Dadoss{
+    margin-left: 52px;
+}
