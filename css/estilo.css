@@ -1,18 +1,19 @@
 *{margin: 0 auto;}
 body{
-    background-color: rgb(186, 207, 199);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background:linear-gradient(100deg,rgb(79, 169, 172),    rgb(255, 255, 255));
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif
 }
 h1{
     background-color: white;
     border-radius: 10px;
     padding: 10px;
-    border-style: outset;
+    border-style: ridge;
     border-color:black;
-    border: 10px inset;
+    
 }
 .central{
     text-align: center;
+    margin-top: 1.5rem;
 
 }
 li{
@@ -25,10 +26,13 @@ li{
     margin: 0.6rem;
     background-color: white;
     padding: 0.2rem;
+    border-radius: 10vh;
+    border-color: black;
     
 }
 .item-menu:hover{
-    background-color: rgb(134, 124, 139);
+    background-color: rgb(139, 124, 124);
+    
  
 }
 td{
@@ -49,16 +53,23 @@ padding-left: 40px;
 }
 #Lorem1{
     margin-left: 40px;
+    margin-top: 0.5rem;
+
 }
 #Lorem2{
     margin-left: 40px;
+    margin-top: 0.5rem;
 }
 #qualificação{
     padding-bottom: 10px;
 }
 #Foto{
     width: 300px; 
-    border-radius: 60px;
+    border-radius: 500px;
+    border-style: hidden;
+    border-color: black;
+    box-shadow: 0 0 30px white,
+    0 0 10px white;
 }
 #experiencia{
     margin-right: 100px;
@@ -111,4 +122,8 @@ padding-left: 40px;
 }
 #Dadoss{
     margin-left: 52px;
+}
+a{
+    text-decoration: none;
+    color: currentColor;
 }
