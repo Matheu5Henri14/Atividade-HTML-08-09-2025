@@ -5,8 +5,8 @@ body{
 }
 h1{
     background-color: white;
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 10vh;
+    padding: 2vh;
     border-style: ridge;
     border-color:black;
     
@@ -39,97 +39,110 @@ td{
     padding: 0.4rem;
 }
 .tabela-div{
-margin-left: 60px;
-padding-left: 40px;
+margin-left: 60vh;
+padding-left: 40vh;
+
 }
 #Pessoal{
-    margin-left: 50px;
+    margin-left: 5vh;
 }
 #habilidades{
-  margin-right: 100px;
+  margin-right: 12vh;
 }
 #Sobre{
-    padding-bottom: 10px;
+    padding-bottom: 2vh;
+    align-content: center;
+    justify-content: center;
+    
 }
 #Lorem1{
-    margin-left: 40px;
+    margin-left: 5vh;
     margin-top: 0.5rem;
 
 }
 #Lorem2{
-    margin-left: 40px;
+    margin-left: 5vh;
     margin-top: 0.5rem;
+    
 }
 #qualificação{
-    padding-bottom: 10px;
+    padding-bottom: 2vh;
 }
 #Foto{
-    width: 300px; 
-    border-radius: 500px;
+    width: 35vh; 
+    border-radius: 500vh;
     border-style: hidden;
     border-color: black;
     box-shadow: 0 0 30px white,
     0 0 10px white;
 }
 #experiencia{
-    margin-right: 100px;
+    margin-right: 11vh;
 }
 #formacao{
-    margin-right: 100px;
+    margin-right: 11vh;
 }
 #Estilo2{
     background-color: white;
     border-style:outset; 
-    margin-right: 1450px;
-    border-radius: 25px;
-    padding-left: 20px;
+    margin-right: 168vh;
+    border-radius: 25vh;
+    padding-left: 2vh;
     border-color: black;
 }
 #Estilo1{
     background-color: white;
     border-style:outset; 
-    margin-right: 1450px;
-    border-radius: 30px;
-    padding-left: 100px;
+    margin-right: 170vh;
+    border-radius: 30vh;
+    padding-left: 10vh;
     border-color: black;
+    display: flex;
+    font-size: 3.2vh;
     
 }
 #Estilo3{
     background-color: white;
     border-style:outset; 
-    margin-right: 1350px;
-    border-radius: 25px;
-    padding-left: 20px;
+    margin-right: 158vh;
+    border-radius: 30vh;
+    padding-left: 5vh;
     border-color: black;
 }
 #Estilo4{
     background-color: white;
     border-style:outset; 
-    margin-right: 1350px;
-    border-radius: 25px;
-    padding-left: 20px;
+    margin-right: 158vh;
+    border-radius: 30vh;
+    padding-left: 2vh;
     border-color: black;
 }
 #Estilo5{
     background-color: white;
     border-style:outset; 
-    margin-right: 1350px;
-    border-radius: 25px;
-    padding-left: 100px;
+    margin-right: 158vh;
+    border-radius: 30vh;
+    padding-left: 10vh;
     border-color: black;
 }
 #Estilo6{
     background-color: white;
     border-style:outset; 
-    margin-right: 1450px;
-    border-radius: 25px;
-    padding-left: 100px;
+    margin-right: 158vh;
+    border-radius: 25vh;
+    padding-left: 10vh;
     border-color: black;
 }
 #Dadoss{
-    margin-left: 52px;
+    margin-left: 6vh;
+    
 }
 a{
     text-decoration: none;
     color: currentColor;
+}
+
+#central{
+    display: flexbox;
+    align-content: center;
 }
